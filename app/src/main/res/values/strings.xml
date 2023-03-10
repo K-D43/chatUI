@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatUI</string>
+    <string name="username">UserName</string>
+    <string name="Password">Password</string>
+    <string name="login">LogIn</string>
+    <string name="SignUp">SignUp</string>
+    <string name="name">Name</string>
+    <string name="ConfirmPassword">ConfirmPassword</string>
+    <string name="logout">Logout</string>
+    <string name="type_a_message">Type a Message</string>
+</resources>
